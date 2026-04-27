@@ -5,7 +5,7 @@ This project explores efficient strategies for adapting an English-pretrained **
 ## Research Poster
 Detailed visual summary of the experimental setup, tokenizer efficiency gaps, and zero-shot results.
 
-![Project Poster](./assets/poster.png)
+![Project Poster](./assets/poster.pdf)
 
 ## Methodology Overview
 
