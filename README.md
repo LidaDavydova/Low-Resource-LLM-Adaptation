@@ -2,6 +2,11 @@
 
 This project explores efficient strategies for adapting an English-pretrained **RoBERTa-base** model to **Swahili**, specifically targeting extreme low-resource scenarios (10k sentences). We evaluate the impact of tokenizer efficiency, parameter-efficient fine-tuning (LoRA), and knowledge retention.
 
+## Research Poster
+Detailed visual summary of the experimental setup, tokenizer efficiency gaps, and zero-shot results.
+
+![Project Poster](./assets/poster.png)
+
 ## Methodology Overview
 
 The project follows a multi-stage adaptation pipeline:
